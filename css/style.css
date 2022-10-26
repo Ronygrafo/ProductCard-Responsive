@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: hsl(30, 38%, 92%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Card{
+    padding: 0;
+    margin: 0;
+    width: 700px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 12px;
+}
+
+#Image{
+    width: 50%;
+    background-image: url(/images/image-product-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+#Info{
+    width: 50%;
+    padding: 32px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#Info h1, h2, p{
+    margin: 0px;
+}
+
+
+.Pricing{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 48px;
+}
+
+.Pricing #FullPrice{
+    margin-left: 24px;
+}
+
+.Primary{
+    width: 100%;
+    height: 48px;
+
+}
+
+
+/* footer{
+    display: inline;
+    align-self: center
+} */
+
+
+/* - - - - - - - - - - - - - - -  TEXT STYLES */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+h1, h3 {
+    font-family: 'Fraunces';
+    font-weight: 700;
+    font-size: 2.4rem;
+}
+
+h2, p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.Primary{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.Card h2{
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.2rem;
+    color: hsl(228, 12%, 48%);
+}
+.Card h1{
+    color: hsl(212, 21%, 14%);
+    line-height: 2.5rem;
+}
+.Card h3{
+    color: hsl(158, 36%, 37%);
+}
+
+.Card p{
+    font-size: 1rem;
+    color: hsl(228, 12%, 48%);
+    line-height: 1.5rem;
+}
+
+.Pricing #FullPrice{
+    text-decoration: line-through;
+}
