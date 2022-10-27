@@ -30,7 +30,7 @@ body{
 
 #Image{
     width: 50%;
-    background-image: url(images/image-product-desktop.jpg);
+    background-image: url(/images/image-product-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-top-left-radius: 12px;
