@@ -19,6 +19,11 @@ This is my solution to the [Product preview card component challenge on Frontend
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## OVERVIEW
+This is a simple responsive product card for e-commerce applications
+
+Component made with pure HTML and CSS, 
+- Media Querys
+- No Frameworks
 
 ### The challenge
 
@@ -36,9 +41,11 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ronygrafo.github.io/ProductCard-Responsive/)
 
 ## My process
+
+
 
 
 ### Built with
@@ -46,8 +53,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Pure CSS - custom properties
 - Flexbox
-- [Fontawesome](https://styled-components.com/)
-- [Google Fonts](https://styled-components.com/)
+- [Liking componentes] (Fontawesome and Google Fonts)
 
 ### What I learned
 
