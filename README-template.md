@@ -30,6 +30,7 @@ Users should be able to:
 ### Screenshot
 
 [Desktop](https://gyazo.com/6aaf6f572283e5e25d60dd4b24aa8a99)
+[Mobile](https://gyazo.com/ebbd552a9370eceb8b540a9c4eb112c3)
 
 
 ### Links

@@ -7,6 +7,7 @@ body{
     margin: 0px;
     border: 0px;
     overflow: hidden;
+    background-color: hsl(30, 38%, 92%);
 }
 
 .Background {
