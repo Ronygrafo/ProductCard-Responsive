@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [click here]https://ronygrafo.github.io/ProductCard-Responsive
+- Solution URL: [Github Repository](https://github.com/Ronygrafo/ProductCard-Responsive)
+- Live Site URL: [click here to see it live!](https://ronygrafo.github.io/ProductCard-Responsive)
 
 ## My process
 
